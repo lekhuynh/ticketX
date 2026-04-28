@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.log
+err.txt
+ask_result.txt
+temp_check.py
+tmp_check.py
+
